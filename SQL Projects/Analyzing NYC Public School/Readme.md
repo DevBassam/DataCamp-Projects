@@ -14,7 +14,7 @@
   8. Ranking boroughs
   9. Brooklyn numbers
   
-## Project includs: 
+## Project Includs: 
   1. the selection of multiple columns from a database
   2. applying filters
   3. counting unique values
